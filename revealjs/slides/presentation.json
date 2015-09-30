@@ -1,0 +1,49 @@
+{
+  "title": "Reveal JS Slide Samples",
+  "options":
+  {
+    "slideNumber": true,
+    "enableAudio": true
+  },
+  "slides": [
+    "introduction.md",
+    "description.md",
+    [
+      "menu/example.md"
+    ],
+    [
+      "title/example.md",
+      "title/source.md",
+      "title/JHDtest1.md"
+    ],
+    [
+      "with-subtitle/example.md",
+      "with-subtitle/source.md"
+    ],
+    [
+      "toc/toc.md",
+      "toc/source.md"
+    ],
+    [
+      "three-horizontal-images/example.md",
+      "three-horizontal-images/source.md"
+    ],
+    [
+      "textleft-imageright/example.md",
+      "textleft-imageright/source.md"
+    ],
+    [
+      "image-quote/example.md",
+      "image-quote/source.md"
+    ],
+    [
+      "centered-quote/example.md",
+      "centered-quote/source.md"
+    ],
+    [
+      "audio-plugin/example.md",
+      "audio-plugin/source.md",
+      "audio-plugin/recording.md"
+    ]
+  ]
+}
